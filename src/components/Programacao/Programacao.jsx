@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from './Styles';
-import Card from '../card-prog/Card';
+import Card from '../Card-prog/Card';
 
 function Programacao() {
     return (
